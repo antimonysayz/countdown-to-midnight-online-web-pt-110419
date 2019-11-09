@@ -1,4 +1,4 @@
 #write your code here
 
 def countdown(num)
- if num
+ if while num > 0
