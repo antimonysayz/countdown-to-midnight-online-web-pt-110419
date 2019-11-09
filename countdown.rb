@@ -6,4 +6,5 @@ def countdown(num)
  num -= l
  if num == 0
    puts "HAPPY NEW YEAR!"
+  end
 end
